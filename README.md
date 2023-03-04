@@ -13,4 +13,4 @@ Instead the numbers the user enters are shown in different colors correlating to
 * Red - The number doesn't occur in the puzzle
 
 ## Run the Game
-To run the game simply run the `fun main()` function in the **main.kt** file
+To run the game simply run the `fun main()` function in the **main.kt** file (can be found in `src/main.kt`)
